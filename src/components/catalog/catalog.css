@@ -1,0 +1,42 @@
+.btn-category {
+    vertical-align: top;
+    display: inline-block;
+    width: 170px;
+    height: 50px;
+    border: 1px solid #333;
+    margin-bottom: 15px;
+    margin-right: 10px;
+}
+
+.btn-category:hover {
+    cursor: pointer;
+}
+
+.catalog-page {
+    margin-top: 10px;
+}
+
+.categories {
+    margin-top: 30px;
+    text-align: center;
+}
+
+.btn-category {
+    display: inline-block;
+    width: 170px;
+    height: 50px;
+    background-color: #fff;
+    padding: 10px;
+    margin-bottom: 30px;
+    margin-right: 40px;
+    border: 1px solid #17a2b8;
+    border-radius: 6px;
+    font-weight: bold;
+    color: #455c7;
+}
+
+.btn-category:hover {
+    cursor: pointer;
+    color: #28394e;
+    border: 1px solid #f55d2c;
+}
